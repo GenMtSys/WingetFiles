@@ -1,0 +1,5 @@
+Microsoft.Office
+Microsoft.OneDrive
+Microsoft.Teams.Classic
+Microsoft.DevHome
+
